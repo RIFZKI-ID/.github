@@ -161,4 +161,4 @@ melalui banyak media Rifzki ID mengundang para pengembang, peneliti, dan pembuat
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
 </div> 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">2024 <a href="https://rifzki.my.id/" target="_blank">Rifzki Adiyaksa</a></div>
